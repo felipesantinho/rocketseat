@@ -1,0 +1,19 @@
+.container{
+  display: flex;
+  gap: 1rem;
+}
+
+aside, main {
+  padding: 10px;
+  border: 1px solid;
+  height: 90vh;
+}
+
+aside{
+  flex-basis: 25%;
+}
+
+main{
+  flex: 1;
+}
+
