@@ -1,0 +1,17 @@
+{
+  "name": "ex015",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "felipe": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^3.1.1",
+    "inquirer": "^9.1.2",
+    "opn": "^6.0.0"
+  }
+}
